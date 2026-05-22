@@ -1,5 +1,7 @@
 # GradientForge
 
+![GradientForge Icon](icon_512x512@2x.png)
+
   **Neural networks you can see. Train on your Mac, visualize what the network learned, and export to Core ML in one click — no code required.**
 
   GradientForge is a native macOS app for training and visualizing neural networks. It's built for students learning how neural networks work, educators who need a visual teaching
