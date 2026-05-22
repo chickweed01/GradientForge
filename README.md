@@ -11,7 +11,7 @@
 
   - 📘 [Frequently Asked Questions](#frequently-asked-questions) — below on this page
   - 🐞 [Report a bug or request a feature](https://github.com/YOUR_USERNAME/GradientForge/issues)
-  - ✉️  Email **[your email]** — replies within a few business days
+  - ✉️  Email **celtichammer01@gmail.com** — replies within a few business days
   - 📖 Open the in-app User Guide (Help menu → User Guide)
 
   ---
