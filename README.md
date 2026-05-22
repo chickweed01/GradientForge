@@ -1,6 +1,6 @@
 # GradientForge
 
-![GradientForge Icon](icon_512x512@2x.png)
+<img src="icon_512x512@2x.png" width="128" alt="GradientForge Icon">
 
   **Neural networks you can see. Train on your Mac, visualize what the network learned, and export to Core ML in one click — no code required.**
 
