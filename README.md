@@ -129,7 +129,7 @@
 
   ## Reporting bugs
 
-  For bug reports or feature requests, please [open an issue](https://github.com/YOUR_USERNAME/GradientForge/issues) or email **[your email]**.
+  For bug reports or feature requests, please send an email to **celtichammer01@gmail.com**.
 
   When reporting a bug, please include:
   
